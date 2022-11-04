@@ -1,0 +1,24 @@
+body{
+    background-color:#1d2127;
+    color: #fff;
+    font-family:'Courier New', Courier, monospace;
+    padding: 0;
+    margin: 0;
+    
+}
+
+h1{
+    margin: 0 0 0 8px;
+    padding-top: 8px;
+}
+
+.bar{
+    background-color: #464b55;
+    
+    
+    display: flex;
+}
+.logo{
+    width: 20px;
+    height: 20px;
+}
